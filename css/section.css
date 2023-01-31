@@ -1,0 +1,8 @@
+.section {
+    margin: 20px 0px;
+    padding: 10px 0px;
+}
+
+.section--bottom {
+    border-bottom: 2px solid rgb(79, 79, 243);
+}

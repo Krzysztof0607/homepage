@@ -1,0 +1,34 @@
+.aside {
+    width: 100%;
+    margin: 20px 0px;
+}
+
+.aside__header {
+    text-align: center;
+}
+
+.aside__list {
+    display: inline-flex;
+    margin: auto;
+    gap: 70px;
+    list-style-type: none;
+    border: 2px solid black;
+    border-radius: 20px / 11px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.aside__link {
+    text-decoration: none;
+    color: black
+}
+
+.aside__link:hover {
+    color: blue;
+    border-bottom: 2px solid;
+    outline: none;
+}
+
+.aside__link:active {
+    color: crimson;
+}

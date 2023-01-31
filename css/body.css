@@ -1,0 +1,13 @@
+.body {
+    font-family: 'Lato', sans-serif;
+    padding: 30px;
+    margin: auto;
+    max-width: 1000px;
+    background-color: #eee;
+    line-height: 1.5;
+}
+
+.body--dark {
+    background-color: #00000077;
+    color: #ffffff;
+}
